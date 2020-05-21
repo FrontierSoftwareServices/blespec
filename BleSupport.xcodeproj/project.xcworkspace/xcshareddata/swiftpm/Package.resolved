@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftyBluetooth",
+        "repositoryURL": "git@github.com:frontiersoftwareservices/SwiftyBluetooth.git",
+        "state": {
+          "branch": "master",
+          "revision": "9c6d2912c95e240bc6ecfaa997b870c5be34d9f6",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
